@@ -28,3 +28,4 @@ dist-ssr/
 *.pem
 *.crt
 *.key
+credentials.txt
